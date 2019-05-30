@@ -5,5 +5,5 @@ Definición basada en templates de la clase Lista provista de un cursor que perm
 
 * `ListaDoble<T>` : [ListaDoble.h](../master/src/ListaDoble.h)
     
-* `Nodo<T>` : [Nodo.h](../src/Nodo.h)
+* `Nodo<T>` : [Nodo.h](../master/src/Nodo.h)
 
