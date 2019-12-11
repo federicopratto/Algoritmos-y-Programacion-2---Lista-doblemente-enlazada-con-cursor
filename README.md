@@ -1,7 +1,7 @@
-# Estructura Dinámica de Datos: Lista
+# Lista doblemente enlazada
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Definición basada en templates de la clase Lista provista de un cursor que permite recorrer todos los elementos secuencialmente. Implementación doblemente enlazada.
-
+Template de una lista doblemente enlazada provista de un cursor que permite recorrer todos sus elementos secuencialmente.
 
 * `ListaDoble<T>` : [ListaDoble.h](../master/src/ListaDoble.h)
     
